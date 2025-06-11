@@ -26,7 +26,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/j9G5tmNM/shaban-
 // add custom menu and mention reply image url   
 BOT_NAME: process.env.BOT_NAME || "SHABAN-MD V5",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "SHABAN-MD",
+STICKER_NAME: process.env.STICKER_NAME || "*𓆩•༎꯭ࠫ𝆺꯭𝅥 ᥫ🦋𝐕ɨᎮ ꯭ϻɨ𝛅𝛅𝆺꯭𝅥𝐐𝐮꯭ͣ𝐞ͫ𝐞𝐧꯭༎ࠫ𓆩⁣⃝🦋─⃛͢𓆪*",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -46,7 +46,7 @@ LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *SHABAN-MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
-AUTO_REACT: process.env.AUTO_REACT || "false",
+AUTO_REACT: process.env.AUTO_REACT || "true",
 // make this true or false for auto react on all msgs
 ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words  
